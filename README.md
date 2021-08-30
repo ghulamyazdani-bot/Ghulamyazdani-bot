@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This account is on https://github.com/ghulamyazdani-bot
+This account is on https://github.com/ghulamyazdani
 
 <!--
 **Ghulamyazdani/Ghulamyazdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
